@@ -39,7 +39,7 @@ public class Main {
     }
 
     public static void task3() {
-
+        System.out.println(" ");
         System.out.println("Задание номер 3");
         int country = 12_000_000;
         int birth = country / 1000 * 17;
